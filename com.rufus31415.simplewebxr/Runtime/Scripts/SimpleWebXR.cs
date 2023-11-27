@@ -82,6 +82,8 @@ namespace Rufus31415.WebXR
     public class SimpleWebXR : MonoBehaviour
     {
         #region MonoBehaviour
+        public Texture AR_texture;
+        public Texture No_AR_texture;
 
         /// <summary>
         /// Hide the GUI button "Start AR" or "Start VR".
@@ -119,20 +121,21 @@ namespace Rufus31415.WebXR
 
             if (!InternalInSession)
             {
-                var width = 120;
-                var height = 60;
+                var width = 250;
+                var height = 125;
 
                 if ((IsArSupported() || IsVrSupported()))
                 {
-                    if (GUI.Button(new Rect((Screen.width - width) / 2, Screen.height - height, width, height), "Enter " + (IsArSupported() ? "AR" : "VR")))
+                    if (GUI.Button(new Rect((Screen.width - width) / 2, Screen.height - height, width, height), AR_texture))
                     {
                         StartSession();
                     }
                 }
                 else
                 {
-                    GUI.Button(new Rect((Screen.width - width) / 2, Screen.height - height, width, height), "WebXR\r\nNot supported");
+                    GUI.Button(new Rect((Screen.width - width) / 2, Screen.height - height, width, height), No_AR_texture);
                 }
+                GUI.skin.button.fontSize = 25;
             }
         }
 #endif

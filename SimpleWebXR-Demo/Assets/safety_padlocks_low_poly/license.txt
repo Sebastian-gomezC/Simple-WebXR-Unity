@@ -1,0 +1,11 @@
+Model Information:
+* title:	Safety Padlocks (Low Poly)
+* source:	https://sketchfab.com/3d-models/safety-padlocks-low-poly-564f8c459db14ae3834f1b909c8343ac
+* author:	Prem Mane (https://sketchfab.com/premane)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Safety Padlocks (Low Poly)" (https://sketchfab.com/3d-models/safety-padlocks-low-poly-564f8c459db14ae3834f1b909c8343ac) by Prem Mane (https://sketchfab.com/premane) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

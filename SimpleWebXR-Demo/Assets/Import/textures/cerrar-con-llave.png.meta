@@ -1,0 +1,1250 @@
+fileFormatVersion: 2
+guid: bb63e8ee6ebb1724c980f44ffe082d7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5768709919817505466
+    second: cerrar-con-llave_0
+  - first:
+      213: 7981411123485463860
+    second: cerrar-con-llave_1
+  - first:
+      213: 746786554360086409
+    second: cerrar-con-llave_2
+  - first:
+      213: -7548486525431431000
+    second: cerrar-con-llave_3
+  - first:
+      213: 7981473814339394493
+    second: cerrar-con-llave_4
+  - first:
+      213: -1205679314059882494
+    second: cerrar-con-llave_5
+  - first:
+      213: 6997004932183210435
+    second: cerrar-con-llave_6
+  - first:
+      213: 5661747851174872976
+    second: cerrar-con-llave_7
+  - first:
+      213: 5975526786403007766
+    second: cerrar-con-llave_8
+  - first:
+      213: -6108675973583205621
+    second: cerrar-con-llave_9
+  - first:
+      213: 6470859795914859199
+    second: cerrar-con-llave_10
+  - first:
+      213: -7990554641052867132
+    second: cerrar-con-llave_11
+  - first:
+      213: -5901683368589597901
+    second: cerrar-con-llave_12
+  - first:
+      213: -4673031250725499288
+    second: cerrar-con-llave_13
+  - first:
+      213: -752024874157566180
+    second: cerrar-con-llave_14
+  - first:
+      213: -3552114307212189505
+    second: cerrar-con-llave_15
+  - first:
+      213: 149992413793485051
+    second: cerrar-con-llave_16
+  - first:
+      213: -2825212668145933147
+    second: cerrar-con-llave_17
+  - first:
+      213: -4235855396002280098
+    second: cerrar-con-llave_18
+  - first:
+      213: -6240811462748365418
+    second: cerrar-con-llave_19
+  - first:
+      213: 3618467442704552338
+    second: cerrar-con-llave_20
+  - first:
+      213: 867930430879155924
+    second: cerrar-con-llave_21
+  - first:
+      213: -2203621184911653668
+    second: cerrar-con-llave_22
+  - first:
+      213: 5658277636148622870
+    second: cerrar-con-llave_23
+  - first:
+      213: -6491471243980032338
+    second: cerrar-con-llave_24
+  - first:
+      213: 2676381368254516646
+    second: cerrar-con-llave_25
+  - first:
+      213: -7886000234546424242
+    second: cerrar-con-llave_26
+  - first:
+      213: -3689750305572813861
+    second: cerrar-con-llave_27
+  - first:
+      213: 3595180413785864895
+    second: cerrar-con-llave_28
+  - first:
+      213: 7242446662885090185
+    second: cerrar-con-llave_29
+  - first:
+      213: 3889050922960392588
+    second: cerrar-con-llave_30
+  - first:
+      213: 4808010737063302061
+    second: cerrar-con-llave_31
+  - first:
+      213: 7872921362572695529
+    second: cerrar-con-llave_32
+  - first:
+      213: 3807759648570852875
+    second: cerrar-con-llave_33
+  - first:
+      213: 6897673571716133221
+    second: cerrar-con-llave_34
+  - first:
+      213: 4374960419361438981
+    second: cerrar-con-llave_35
+  - first:
+      213: -4359217550163055359
+    second: cerrar-con-llave_36
+  - first:
+      213: -865711349732339834
+    second: cerrar-con-llave_37
+  - first:
+      213: 137831725039503781
+    second: cerrar-con-llave_38
+  - first:
+      213: 4291871355908501228
+    second: cerrar-con-llave_39
+  - first:
+      213: -4286049339540598920
+    second: cerrar-con-llave_40
+  - first:
+      213: 35282622406650725
+    second: cerrar-con-llave_41
+  - first:
+      213: -8983392767882811751
+    second: cerrar-con-llave_42
+  - first:
+      213: 226929879227070178
+    second: cerrar-con-llave_43
+  - first:
+      213: 7881963352721387735
+    second: cerrar-con-llave_44
+  - first:
+      213: 2703434566053291804
+    second: cerrar-con-llave_45
+  - first:
+      213: 2413243384197116659
+    second: cerrar-con-llave_46
+  - first:
+      213: -5122170123255236690
+    second: cerrar-con-llave_47
+  - first:
+      213: -5252659650780744275
+    second: cerrar-con-llave_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cerrar-con-llave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2851.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645610154ec61ffa0800000000000000
+      internalID: -5768709919817505466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2851.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d3b5212ba3ce60800000000000000
+      internalID: 7981411123485463860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_2
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2851.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fbbaf1a6e1d5a00800000000000000
+      internalID: 746786554360086409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_3
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2851.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a046dbaf736e3790800000000000000
+      internalID: -7548486525431431000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_4
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2851.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb18cf7524e3ce60800000000000000
+      internalID: 7981473814339394493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_5
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 2851.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009c644d01944fe0800000000000000
+      internalID: -1205679314059882494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_6
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 2851.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9bf620aea5a1160800000000000000
+      internalID: 6997004932183210435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970c156ca1929e40800000000000000
+      internalID: 5661747851174872976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2376.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61df169d3f55de250800000000000000
+      internalID: 5975526786403007766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_9
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2376.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0c92319f993ba0800000000000000
+      internalID: -6108675973583205621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_10
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2376.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2acd643bc1dc950800000000000000
+      internalID: 6470859795914859199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_11
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2376.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e1b5c3e8db1190800000000000000
+      internalID: -7990554641052867132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_12
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 2376.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333e266ae32091ea0800000000000000
+      internalID: -5901683368589597901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_13
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 2376.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e053416de062fb0800000000000000
+      internalID: -4673031250725499288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1901.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1794918c554095f0800000000000000
+      internalID: -752024874157566180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1901.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0e8058bda54bec0800000000000000
+      internalID: -3552114307212189505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_16
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1901.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf00a2f3e41e41200800000000000000
+      internalID: 149992413793485051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_17
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1901.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46a340c04dac8d0800000000000000
+      internalID: -2825212668145933147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_18
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1901.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dcc59b5f73735c0800000000000000
+      internalID: -4235855396002280098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_19
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 1901.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d92b43a0f2469a0800000000000000
+      internalID: -6240811462748365418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_20
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1901.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29198b9b7f0673230800000000000000
+      internalID: 3618467442704552338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1426.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6cd4ed0228b0c00800000000000000
+      internalID: 867930430879155924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_22
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1426.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c0d5253a2b61e0800000000000000
+      internalID: -2203621184911653668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_23
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1426.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616fc2ff78d368e40800000000000000
+      internalID: 5658277636148622870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_24
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1426.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea638e00c49a9e5a0800000000000000
+      internalID: -6491471243980032338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_25
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1426.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc842acaa642520800000000000000
+      internalID: 2676381368254516646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_26
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 1426.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e469639819c4f8290800000000000000
+      internalID: -7886000234546424242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_27
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1426.7144
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3817e65af5bccc0800000000000000
+      internalID: -3689750305572813861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf52bc985a4e130800000000000000
+      internalID: 3595180413785864895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 951.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983aaf52ed6528460800000000000000
+      internalID: 7242446662885090185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_30
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 951.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819578953fa8f530800000000000000
+      internalID: 3889050922960392588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_31
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 951.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da31cea9a4c79b240800000000000000
+      internalID: 4808010737063302061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_32
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 951.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7dab8444c324d60800000000000000
+      internalID: 7872921362572695529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_33
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 951.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c12bd931e7d430800000000000000
+      internalID: 3807759648570852875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_34
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 951.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617dba619579bf50800000000000000
+      internalID: 6897673571716133221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dbe66625bf6bc30800000000000000
+      internalID: 4374960419361438981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_36
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 476.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de1e7fbb2f083c0800000000000000
+      internalID: -4359217550163055359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_37
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 476.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0e293d106cf3f0800000000000000
+      internalID: -865711349732339834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_38
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 476.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a942c1493da9e100800000000000000
+      internalID: 137831725039503781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 476.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceea996424acf8b30800000000000000
+      internalID: 4291871355908501228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_40
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 476.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f82ea85d4e484c0800000000000000
+      internalID: -4286049339540598920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_41
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 476.7143
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bea4fab595d7000800000000000000
+      internalID: 35282622406650725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7142944
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9962888afd3945380800000000000000
+      internalID: -8983392767882811751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_43
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1.7142944
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e67048d587362300800000000000000
+      internalID: 226929879227070178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_44
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1.7142944
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0fa9ba8eb526d60800000000000000
+      internalID: 7881963352721387735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_45
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1.7142944
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c176e171a67848520800000000000000
+      internalID: 2703434566053291804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerrar-con-llave_46
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1.7142944
+        width: 475.2857
+        height: 475.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f271af62109d7120800000000000000
+      internalID: 2413243384197116659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec647292c2394b64eace45ceba390e2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
